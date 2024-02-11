@@ -1,0 +1,13 @@
+1) This will be used as a pip install moduel
+2) Lets create a module where this will be decorator.
+3) Need to handle different file things.(handlers)
+
+
+
+
+
+
+
+Future addditions:
+1)icream - giving the fucntion call and parameters after answer.
+2) adding color to the temrinal.

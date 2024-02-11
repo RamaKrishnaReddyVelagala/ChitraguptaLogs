@@ -1,0 +1,1 @@
+1) How to pass variables to a decorator.
